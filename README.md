@@ -1,4 +1,3 @@
-DNS Switcher
 DNS Switcher helps you quickly and easily change your DNS settings with just a few clicks.
 ---
 🔧 Supported DNS Providers:
